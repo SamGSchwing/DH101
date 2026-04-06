@@ -1,3 +1,4 @@
-# Sustainability & Ethics
+# <script src="/assets/dark-theme.js"></script>
+# Sustainability
 
-Reflect on environmental and ethical implications of AI.
+Notes about sustainability practices and choices.

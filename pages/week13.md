@@ -1,5 +1,5 @@
 # <script src="/assets/dark-theme.js"></script>
-# Week 7 – Mapping AI Worlds
+# Week 13 – Futures of AI & Humanity
 
 ## The Artifact
 Describe or embed your artifact here.

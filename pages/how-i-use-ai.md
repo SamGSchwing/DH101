@@ -1,3 +1,4 @@
-# How I Use AI
+# <script src="/assets/dark-theme.js"></script>
+# How I use AI
 
-Describe how you approach AI use in this course.
+Document how you use AI tools in your workflow.
