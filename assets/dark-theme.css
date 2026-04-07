@@ -31,17 +31,5 @@ table th, table td{border:1px solid var(--border);padding:.25rem .5rem}
 img{background:transparent}
 .dark-toggle-hidden{display:none}
 
-/* Week selector styles */
-.week-menu-container select{appearance:none}
-.week-menu-container button:focus,.week-menu-container select:focus{outline:3px solid rgba(88,166,255,0.25);outline-offset:2px}
-
-/* Week grid layout */
-.weeks-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:2rem;margin:2rem auto;max-width:900px;justify-items:center;width:100%;padding:0 1rem}
-.weeks-grid-centered{display:grid;grid-template-columns:1fr;justify-items:center;margin:2rem auto;width:100%}
-.week-box{display:grid;place-items:center;width:140px;height:140px;font-size:1.15rem;font-weight:600;border:none;border-radius:50%;background:var(--card-bg);color:var(--text);text-decoration:none;cursor:pointer;box-shadow:0 4px 8px rgba(0,0,0,0.1);transition:all 0.3s ease}
-.dark .week-box{box-shadow:0 4px 8px rgba(0,0,0,0.3)}
-.week-box:hover{transform:scale(1.15);box-shadow:0 8px 20px rgba(29,78,216,0.3);background:var(--link);color:var(--bg)}
-.dark .week-box:hover{box-shadow:0 8px 20px rgba(88,166,255,0.3)}
-
 
 
