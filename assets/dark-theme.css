@@ -18,7 +18,9 @@ html,body{
   background:var(--bg);
   color:var(--text);
   transition:background .2s ease,color .2s ease;
+  text-align:center;
 }
+body{max-width:800px;margin:0 auto;padding:0 1rem}
 a{color:var(--link)}
 pre,code{background:var(--card-bg);color:var(--text)}
 pre{padding:1rem;border-radius:6px;overflow:auto;border:1px solid var(--border)}
