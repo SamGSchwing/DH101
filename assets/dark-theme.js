@@ -7,7 +7,7 @@
 
     var link = document.createElement('link');
     link.rel = 'stylesheet';
-    link.href = '/assets/dark-theme.css';
+    link.href = './dark-theme.css';
     document.head.appendChild(link);
 
     function setTheme(dark){
