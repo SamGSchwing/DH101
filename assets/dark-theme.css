@@ -21,6 +21,7 @@ html,body{
   text-align:center;
 }
 body{max-width:800px;margin:0 auto;padding:0 1rem}
+ul{text-align:left;display:inline-block;margin:1rem auto}
 a{color:var(--link)}
 pre,code{background:var(--card-bg);color:var(--text)}
 pre{padding:1rem;border-radius:6px;overflow:auto;border:1px solid var(--border)}
