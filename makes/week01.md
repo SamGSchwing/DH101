@@ -1,4 +1,3 @@
-# <script src="/assets/dark-theme.js"></script>
 # Week 1 – Reverse Engineering
 
 ## The Artifact

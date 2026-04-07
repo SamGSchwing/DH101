@@ -1,4 +1,3 @@
-# <script src="/assets/dark-theme.js"></script>
 # Week 11 – AI & Labor
 
 ## The Artifact

@@ -1,5 +1,3 @@
-<script src="/assets/dark-theme.js"></script>
-
 # Welcome — DH101
 
 Hello, DH — this site will document my critical making this semester.

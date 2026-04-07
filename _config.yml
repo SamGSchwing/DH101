@@ -1,0 +1,9 @@
+title: DH101
+description: Critical making for DH101
+theme: null
+markdown: kramdown
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
