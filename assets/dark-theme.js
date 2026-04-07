@@ -59,8 +59,8 @@
 
         go.onclick = async function(){
           var val = select.value; // e.g. week01
-          var base = 'pages/'+val;
-          var candidates = [base, base + '.html', base + '.md'];
+          var base = 'makes/'+val;
+          var candidates = [base + '.md', base + '.html', base];
           for(var i=0;i<candidates.length;i++){
             try{
               var res = await fetch(candidates[i], {method:'HEAD'});
