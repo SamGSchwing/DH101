@@ -1,0 +1,17 @@
+# Reflections — Weekly Thoughts
+
+Links to weekly reflection prompts and responses:
+
+- [Week 1](week01.md)
+- [Week 2](week02.md)
+- [Week 3](week03.md)
+- [Week 4](week04.md)
+- [Week 5](week05.md)
+- [Week 6](week06.md)
+- [Week 7](week07.md)
+- [Week 8](week08.md)
+- [Week 9](week09.md)
+- [Week 10](week10.md)
+- [Week 11](week11.md)
+- [Week 12](week12.md)
+- [Week 13](week13.md)
