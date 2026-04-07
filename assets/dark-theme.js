@@ -59,7 +59,7 @@
 
         go.onclick = async function(){
           var val = select.value; // e.g. week01
-          var base = '/pages/'+val;
+          var base = 'pages/'+val;
           var candidates = [base, base + '.html', base + '.md'];
           for(var i=0;i<candidates.length;i++){
             try{
