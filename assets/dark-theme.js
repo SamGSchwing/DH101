@@ -24,8 +24,10 @@
 
     var btn = document.createElement('button');
     btn.setAttribute('aria-label','Toggle dark theme');
-    btn.style.cssText = 'position:fixed;top:1rem;right:1rem;z-index:9999;padding:0.35rem 0.6rem;border-radius:6px;border:1px solid var(--border);background:var(--card-bg);color:var(--text);cursor:pointer;font-size:1.05rem';
+    btn.style.cssText = 'position:fixed;top:50%;right:1rem;transform:translateY(-50%);z-index:9999;padding:1rem 0.8rem;border-radius:8px;border:2px solid var(--border);background:var(--card-bg);color:var(--text);cursor:pointer;font-size:2rem;width:60px;height:60px;display:flex;align-items:center;justify-content:center;transition:all 0.2s ease';
     btn.textContent = document.documentElement.classList.contains('dark') ? '🌙' : '☀️';
+    btn.onmouseover = function(){ this.style.transform = 'translateY(-50%) scale(1.1)'; };
+    btn.onmouseout = function(){ this.style.transform = 'translateY(-50%)'; };
     btn.onclick = function(){ setTheme(!document.documentElement.classList.contains('dark')); };
 
     if(document.body) document.body.appendChild(btn);
