@@ -1,6 +1,6 @@
 # Welcome — DH101
 
-Hello, DH — this site will document my critical making this semester.
+<p class="intro-text">Hello, DH — this site will document my critical making this semester.</p>
 
 <div class="card-section">
 	<h2>Weeks</h2>

@@ -24,6 +24,29 @@ html,body{
 html.dark, body.dark {
   background: linear-gradient(135deg, #181f2a 0%, #232b3a 100%);
 }
+
+/* Header and intro text styling */
+h1, h2, h3, h4, h5, h6 {
+  color: var(--text);
+  text-align: center;
+}
+p.intro-text {
+  color: var(--text);
+  text-align: center;
+  font-size: 1.15rem;
+  margin-bottom: 2.5rem;
+}
+html.dark h1, html.dark h2, html.dark h3, html.dark h4, html.dark h5, html.dark h6 {
+  color: #f3f6fa;
+}
+html.dark p.intro-text {
+  color: #e0e6ef;
+}
+
+/* Add spacing above first card */
+.card-section:first-of-type {
+  margin-top: 4.5rem;
+}
 body{
   max-width:800px;
   margin:2rem auto;
