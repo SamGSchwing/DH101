@@ -48,8 +48,6 @@ html,body{
 }
 html.dark, body {
   height: 100%;
-}
-html.dark body {
   background: linear-gradient(135deg, #141824 0%, #232b3a 60%, #1a2233 100%) !important;
   min-height: 100vh;
 }
