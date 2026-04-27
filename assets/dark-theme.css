@@ -15,12 +15,34 @@ html.dark{
   --border: #233043;
 }
 html,body{
-  background:var(--bg);
+  /* Soft blue gradient background */
+  background: linear-gradient(135deg, #eaf2fb 0%, #f7faff 100%);
   color:var(--text);
   transition:background .2s ease,color .2s ease;
   text-align:center;
 }
-body{max-width:800px;margin:0 auto;padding:0 1rem}
+body{
+  max-width:800px;
+  margin:2rem auto;
+  padding:0 1rem;
+}
+
+/* Card style for main sections */
+.card-section {
+  background: var(--card-bg);
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  box-shadow: 0 4px 24px 0 rgba(60, 80, 120, 0.07);
+  padding: 2rem 1.5rem;
+  margin: 2rem 0;
+  text-align: left;
+}
+
+@media (max-width: 600px) {
+  .card-section {
+    padding: 1.2rem 0.5rem;
+  }
+}
 ul{text-align:left;display:inline-block;margin:1rem auto;list-style:none;padding-left:0}
 a{color:var(--link)}
 pre,code{background:var(--card-bg);color:var(--text)}

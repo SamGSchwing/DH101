@@ -1,4 +1,3 @@
-# <script src="/assets/dark-theme.js"></script>
 # Week 7 – Mapping AI Worlds
 
 ## The Artifact

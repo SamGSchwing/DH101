@@ -1,4 +1,3 @@
-# <script src="/assets/dark-theme.js"></script>
 # Markdown Guide
 
 Quick reference for writing course pages and reflections.

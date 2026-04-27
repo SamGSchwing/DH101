@@ -1,4 +1,3 @@
-# <script src="/assets/dark-theme.js"></script>
 # Week 3 – Selfie & Identity
 
 ## The Artifact

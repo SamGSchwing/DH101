@@ -1,4 +1,3 @@
-# <script src="/assets/dark-theme.js"></script>
 # Week 6 – Text & Distant Reading
 
 ## The Artifact

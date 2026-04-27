@@ -1,4 +1,3 @@
-# <script src="/assets/dark-theme.js"></script>
 # AI Use Log
 
 **Date:**

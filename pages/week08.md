@@ -1,4 +1,3 @@
-# <script src="/assets/dark-theme.js"></script>
 # Week 8 – Networks of Knowledge & Power
 
 ## The Artifact

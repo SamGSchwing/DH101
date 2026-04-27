@@ -1,4 +1,3 @@
-# <script src="/assets/dark-theme.js"></script>
 # Week 9 – Bots & Generators
 
 ## The Artifact
