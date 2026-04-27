@@ -46,7 +46,7 @@ html,body{
   transition:background .2s ease,color .2s ease;
   text-align:center;
 }
-html.dark, body.dark {
+html.dark body {
   background: linear-gradient(135deg, #181f2a 0%, #232b3a 100%);
 }
 
