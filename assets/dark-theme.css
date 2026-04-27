@@ -47,7 +47,7 @@ html,body{
   text-align:center;
 }
 html.dark body {
-  background: linear-gradient(135deg, #181f2a 0%, #232b3a 100%);
+  background: linear-gradient(135deg, #141824 0%, #232b3a 60%, #1a2233 100%);
 }
 
 /* Header and intro text styling */
