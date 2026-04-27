@@ -15,11 +15,14 @@ html.dark{
   --border: #233043;
 }
 html,body{
-  /* Soft blue gradient background */
+  /* Soft blue gradient background for light, deep blue for dark */
   background: linear-gradient(135deg, #eaf2fb 0%, #f7faff 100%);
   color:var(--text);
   transition:background .2s ease,color .2s ease;
   text-align:center;
+}
+html.dark, body.dark {
+  background: linear-gradient(135deg, #181f2a 0%, #232b3a 100%);
 }
 body{
   max-width:800px;
@@ -28,14 +31,23 @@ body{
 }
 
 /* Card style for main sections */
+
 .card-section {
   background: var(--card-bg);
   border: 1px solid var(--border);
   border-radius: 16px;
   box-shadow: 0 4px 24px 0 rgba(60, 80, 120, 0.07);
   padding: 2rem 1.5rem;
-  margin: 2rem 0;
+  margin: 2.5rem 0;
   text-align: left;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+html.dark .card-section, body.dark .card-section {
+  background: #20283a;
+  border: 1px solid #2e3950;
+  box-shadow: 0 4px 24px 0 rgba(20, 30, 60, 0.18);
 }
 
 @media (max-width: 600px) {
