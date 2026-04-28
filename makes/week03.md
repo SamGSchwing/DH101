@@ -1,6 +1,3 @@
----
-layout: default
----
 # Week 3 – Selfie & Identity
 
 ## The Artifact

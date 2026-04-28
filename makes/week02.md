@@ -1,7 +1,3 @@
----
-layout: default
----
-
 > **Markdown help:** See [markdown-guide.md](../pages/markdown-guide.md) for formatting tips and a reflection template.
 
 # Week 2 Reflection

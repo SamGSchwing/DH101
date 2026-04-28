@@ -1,5 +1,3 @@
-<div class="card-section" style="background:#f5f7fa; text-align:center;">
-
 # Week 1 – Reverse Engineering
 
 ## The Artifact
@@ -19,5 +17,3 @@ Respond to this week’s reflection prompt in 200-300 words.
 - AI prompts (summary):
 - What AI generated:
 - What you changed or decided:
-
-</div>

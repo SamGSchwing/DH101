@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Week 6 – Text & Distant Reading
 
 ## The Artifact
