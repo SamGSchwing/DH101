@@ -1,8 +1,23 @@
 <div class="card-section" style="background:#f5f7fa; text-align:center;">
 
-> **Markdown help:** See [markdown-guide.md](../pages/markdown-guide.md) for formatting tips and a reflection template.
-# Week 1 Reflection
+# Week 1 – Reverse Engineering
 
-Reflect 1: What counts as “making” in the age of AI? What might be gained/lost when machines participate in making?
+## The Artifact
+Describe or embed your artifact here.
+Include images, links, or media as appropriate.
+
+## Process Notes
+How did you make this?
+What tools did you use?
+What decisions did you make?
+
+## Reflection
+Respond to this week’s reflection prompt in 200-300 words.
+
+## Attribution & AI Use
+- Tools used:
+- AI prompts (summary):
+- What AI generated:
+- What you changed or decided:
 
 </div>
