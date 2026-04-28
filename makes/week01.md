@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Week 1 – Reverse Engineering
 
 ## The Artifact
