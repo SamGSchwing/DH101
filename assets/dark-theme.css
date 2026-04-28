@@ -7,10 +7,6 @@
   margin: 2.5rem auto 0 auto;
   max-width: 700px;
 }
-html.dark .header-section, body.dark .header-section {
-  background: rgba(24,31,42,0.92);
-  box-shadow: 0 2px 16px 0 rgba(20, 30, 60, 0.18);
-}
 .header-section h1 {
   margin-top: 0;
   margin-bottom: 1.2rem;
@@ -31,14 +27,6 @@ html.dark .header-section, body.dark .header-section {
   --card-bg: #ffffff;
   --border: #e5e7eb;
 }
-html.dark{
-  --bg: #0b1220;
-  --text: #e6eef6;
-  --muted: #9aa6b2;
-  --link: #58a6ff;
-  --card-bg: #0f1724;
-  --border: #233043;
-}
 html,body{
   /* Soft blue gradient background for light, deep blue for dark */
   background: linear-gradient(135deg, #eaf2fb 0%, #f7faff 100%);
@@ -50,17 +38,6 @@ html, body {
   margin: 0;
   padding: 0;
   width: 100%;
-  height: 100%;
-}
-
-html.dark, body {
-  height: 100%;
-  width: 100%;
-}
-
-html.dark, html.dark body {
-  background: #141824; /* Fallback solid color */
-  background: linear-gradient(135deg, #141824 0%, #232b3a 60%, #1a2233 100%) !important;
   min-height: 100vh;
 }
 
@@ -74,12 +51,6 @@ p.intro-text {
   text-align: center;
   font-size: 1.15rem;
   margin-bottom: 2.5rem;
-}
-html.dark h1, html.dark h2, html.dark h3, html.dark h4, html.dark h5, html.dark h6 {
-  color: #f3f6fa;
-}
-html.dark p.intro-text {
-  color: #e0e6ef;
 }
 
 /* Add spacing above first card */
@@ -106,12 +77,6 @@ body{
   margin-left: auto;
   margin-right: auto;
 }
-html.dark .card-section, body.dark .card-section {
-  background: #20283a;
-  border: 1px solid #2e3950;
-  box-shadow: 0 4px 24px 0 rgba(20, 30, 60, 0.18);
-}
-
 @media (max-width: 600px) {
   .card-section {
     padding: 1.2rem 0.5rem;
