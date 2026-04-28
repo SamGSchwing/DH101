@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Week 10 – Games & Play
 
 ## The Artifact

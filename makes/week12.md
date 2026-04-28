@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Week 12 – AI & Ecology
 
 ## The Artifact
