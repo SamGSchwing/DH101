@@ -2,6 +2,11 @@ title: DH101
 description: Critical making for DH101
 theme: null
 markdown: kramdown
+collections:
+  makes:
+    output: true
+  reflections:
+    output: true
 defaults:
   - scope:
       path: ""

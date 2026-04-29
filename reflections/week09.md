@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Week 9 – Bots & Generators"
+---
+
 > **Markdown help:** See [markdown-guide.md](../pages/markdown-guide.md) for formatting tips and a reflection template.
 
 # Week 9 Reflection
