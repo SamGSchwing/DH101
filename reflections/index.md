@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Reflections – Weekly Thoughts"
+---
+
 # Reflections — Weekly Thoughts
 
 Links to weekly reflection prompts and responses:

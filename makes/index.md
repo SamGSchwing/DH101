@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Makes – Weeks"
+---
+
 # Makes — Weeks
 
 This folder contains the weekly makes for DH101. Use these links to open the week files:
