@@ -116,6 +116,36 @@ img{background:transparent}
   transform: translateX(-2px);
 }
 
+/* Style links in card sections as buttons */
+.card-section a {
+  display: inline-block;
+  padding: 0.6rem 1.2rem;
+  background: rgba(29, 78, 216, 0.1);
+  color: var(--link);
+  text-decoration: none;
+  border-radius: 8px;
+  font-weight: 500;
+  transition: all 0.2s ease;
+  border: 1px solid rgba(29, 78, 216, 0.2);
+  margin: 0.4rem 0.4rem 0.4rem 0;
+}
+
+.card-section a:hover {
+  background: rgba(29, 78, 216, 0.2);
+  border-color: rgba(29, 78, 216, 0.4);
+  transform: translateY(-2px);
+}
+
+.card-section ul {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.card-section li {
+  margin: 0;
+}
+
 
 
 
