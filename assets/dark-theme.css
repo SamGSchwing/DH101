@@ -27,35 +27,9 @@
   --card-bg: #ffffff;
   --border: #e5e7eb;
 }
-
-/* Light mode (default) spacing and layout */
-body {
-  max-width: 800px;
-  margin: 3rem auto;
-  padding: 0 1rem 4rem 1rem;
-}
-
-.card-section {
-  padding: 3rem 2.5rem;
-  margin: 4rem 0;
-}
-
-.card-section:first-of-type {
-  margin-top: 5rem;
-}
-
-.card-section h2 {
-  margin-bottom: 1.5rem;
-  font-size: 1.8rem;
-}
-
-.card-section p {
-  margin-bottom: 1.5rem;
-  color: var(--muted);
-}
 html,body{
   /* Soft blue gradient background for light, deep blue for dark */
-  background: linear-gradient(135deg, #f8fafc 0%, #eef2ff 100%);
+  background: linear-gradient(135deg, #eaf2fb 0%, #f7faff 100%);
   color:var(--text);
   transition:background .2s ease,color .2s ease;
   text-align:center;
