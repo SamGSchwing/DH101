@@ -29,7 +29,7 @@
 }
 html,body{
   /* Soft blue gradient background for light, deep blue for dark */
-  background: linear-gradient(135deg, #eaf2fb 0%, #f7faff 100%);
+  background: linear-gradient(135deg, #f8fafc 0%, #eef2ff 100%);
   color:var(--text);
   transition:background .2s ease,color .2s ease;
   text-align:center;
@@ -46,6 +46,13 @@ h1, h2, h3, h4, h5, h6 {
   color: var(--text);
   text-align: center;
 }
+
+.card-section h2 {
+  margin-top: 0;
+  margin-bottom: 1.5rem;
+  font-size: 1.8rem;
+}
+
 p.intro-text {
   color: var(--text);
   text-align: center;
@@ -59,8 +66,8 @@ p.intro-text {
 }
 body{
   max-width:800px;
-  margin:2rem auto;
-  padding:0 1rem;
+  margin:3rem auto;
+  padding:0 1rem 4rem 1rem;
 }
 
 /* Card style for main sections */
@@ -70,8 +77,8 @@ body{
   border: 1px solid var(--border);
   border-radius: 16px;
   box-shadow: 0 4px 24px 0 rgba(60, 80, 120, 0.07);
-  padding: 2rem 1.5rem;
-  margin: 2.5rem 0;
+  padding: 3rem 2.5rem;
+  margin: 4rem 0;
   text-align: left;
   max-width: 600px;
   margin-left: auto;
@@ -79,10 +86,18 @@ body{
 }
 @media (max-width: 600px) {
   .card-section {
-    padding: 1.2rem 0.5rem;
+    padding: 2rem 1.5rem;
+    margin: 3rem 0;
   }
 }
 ul{text-align:left;display:inline-block;margin:1rem auto;list-style:none;padding-left:0}
+
+.card-section p {
+  margin-bottom: 1.5rem;
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+
 a{color:var(--link)}
 pre,code{background:var(--card-bg);color:var(--text)}
 pre{padding:1rem;border-radius:6px;overflow:auto;border:1px solid var(--border)}
