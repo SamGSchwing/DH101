@@ -60,7 +60,11 @@ This project is trying to make the line between humans and AI hard to see. It is
 
 <div class="card-section">
 <h2>Reflection</h2>
-<p>Respond to this week's reflection prompt in 200-300 words.</p>
+<p>For my project “making” counts as a neural network taking a large amount of data (publicly available pictures of faces) and then learning and combining them to make fake people that don’t really exist. Humans only affect the training of the machine, they have no oversight or say over the final output on the website. 
+What changes when machines participate in making?
+
+When machines participate in making, the human is no longer the producer of the individual product. Instead, the human is responsible for making sure that the machine learns well enough to create on its own. Once the machine has learned and is sufficiently trained, it is able to produce an infinite amount of spinoff images based on the input. The process is infinitely faster than what a human artist could do but it raises questions about authenticity. If no human was directly involved in the creation of this image, does it still hold value to our society as a “make
+</p>
 </div>
 
 <div class="card-section">
