@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Week 2 – Reverse Engineering"
+title: "Week 2 – AI Selfie"
 ---
 
 <div class="card-section">
