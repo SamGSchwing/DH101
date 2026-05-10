@@ -1,16 +1,17 @@
 ---
 layout: default
-title: "Week 5 – Reverse Engineering"
+title: "Week 5 – Text Analysis"
 ---
 
 <div class="card-section">
-<h1>Week 5 – Reverse Engineering</h1>
+<h1>Week 5 – Text Analysis</h1>
 </div>
 
 <div class="card-section">
 <h2>The Artifact</h2>
 <div style="text-align:center; margin: 0 auto 2rem; max-width: 720px;">
-  <img src="{{ '/assets/images/week05-artifact.png' | relative_url }}" alt="Week 5 artifact" style="width:100%;height:auto;box-shadow:0 12px 30px rgba(0,0,0,0.08);border-radius:16px;" />
+  <img src="{{ '/assets/images/Screenshot 2026-05-10 165024.png' | relative_url }}" alt="Week 5 artifact - Image 1" style="width:100%;height:auto;box-shadow:0 12px 30px rgba(0,0,0,0.08);border-radius:16px;margin-bottom:1.5rem;" />
+  <img src="{{ '/assets/images/Screenshot 2026-05-10 165053.png' | relative_url }}" alt="Week 5 artifact - Image 2" style="width:100%;height:auto;box-shadow:0 12px 30px rgba(0,0,0,0.08);border-radius:16px;" />
 </div>
 
 <p>This image is a sketch of how the website thisisnotahuman.com works</p>
@@ -60,9 +61,9 @@ This project is trying to make the line between humans and AI hard to see. It is
 
 <div class="card-section">
 <h2>Reflection</h2>
-<p>For my project "making" counts as a neural network taking a large amount of data (publicly available pictures of faces) and then learning and combining them to make fake people that don't really exist. Humans only affect the training of the machine, they have no oversight or say over the final output on the website. 
-What changes when machines participate in making?
+<p>Reflection:
 
-When machines participate in making, the human is no longer the producer of the individual product. Instead, the human is responsible for making sure that the machine learns well enough to create on its own. Once the machine has learned and is sufficiently trained, it is able to produce an infinite amount of spinoff images based on the input. The process is infinitely faster than what a human artist could do but it raises questions about authenticity. If no human was directly involved in the creation of this image, does it still hold value to our society as a "make
-</p>
+I chose to analyze the State of the Union speech.
+
+One thing that we gain from using machines to “read” the literature for us, is speed. Machines are capable of reading thousands of times faster than any human and can spot mathematically undeniable. It is really good at identifying patterns throughout extreme amounts of data. AI tools make things like this more accessible than they used to be which is good. When making things more accessible however, we run the risk of losing some of the intended meaning. Machines can’t possibly understand literature the same way a human can. They don't feel emotions or relate to anything happening in the text. In this experiment I learned that ChatGPT will give its own interpretation of the data while Voyant will give the numbers. ChatGPT also has the ability to analyze outside, related sources, which Voyant does not.</p>
 </div>
