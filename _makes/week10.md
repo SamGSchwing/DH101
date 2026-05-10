@@ -10,7 +10,11 @@ title: "Week 10 – Reverse Engineering"
 <div class="card-section">
 <h2>The Artifact</h2>
 <div style="text-align:center; margin: 0 auto 2rem; max-width: 720px;">
-  <img src="{{ '/assets/images/week10-artifact.png' | relative_url }}" alt="Week 10 artifact" style="width:100%;height:auto;box-shadow:0 12px 30px rgba(0,0,0,0.08);border-radius:16px;" />
+  <img src="{{ '/assets/images/Screenshot 2026-05-10 180924.png' | relative_url }}" alt="Week 10 artifact 180924" style="width:100%;height:auto;box-shadow:0 12px 30px rgba(0,0,0,0.08);border-radius:16px;" />
+</div>
+
+<div style="text-align:center; margin: 0 auto 2rem; max-width: 720px;">
+  <img src="{{ '/assets/images/Screenshot 2026-02-27 223647.png' | relative_url }}" alt="Week 10 artifact 223647" style="width:100%;height:auto;box-shadow:0 12px 30px rgba(0,0,0,0.08);border-radius:16px;" />
 </div>
 
 <p>This image is a sketch of how the website thisisnotahuman.com works</p>
