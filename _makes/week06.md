@@ -10,18 +10,13 @@ title: "Week 6 – Supply Lines"
 <div class="card-section">
 <h2>The Artifact</h2>
 <div style="text-align:center; margin: 0 auto 2rem; max-width: 720px;">
-  <img src="{{ '/assets/images/week06-artifact.png' | relative_url }}" alt="Week 6 artifact" style="width:100%;height:auto;box-shadow:0 12px 30px rgba(0,0,0,0.08);border-radius:16px;" />
+  <img src="{{ '/assets/images/Screenshot 2026-05-10 172104.png' | relative_url }}" alt="Week 6 artifact screenshot" style="width:100%;height:auto;box-shadow:0 12px 30px rgba(0,0,0,0.08);border-radius:16px;" />
 </div>
 
 <div style="text-align:center; margin: 0 auto 2rem; max-width: 720px;">
-  <img src="{{ '/assets/images/spike.png' | relative_url }}" alt="Spike image" style="width:100%;height:auto;box-shadow:0 12px 30px rgba(0,0,0,0.08);border-radius:16px;" />
+  <img src="{{ '/assets/images/Screenshot 2026-05-10 172104.png' | relative_url }}" alt="Screenshot 2026-05-10 172104" style="width:100%;height:auto;box-shadow:0 12px 30px rgba(0,0,0,0.08);border-radius:16px;" />
 </div>
 </div>
-
-<div class="card-section">
-<h2>Q and A</h2>
-
-
 
 <div class="card-section">
 <h2>Reflection</h2>
