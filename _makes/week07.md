@@ -1,61 +1,50 @@
 ---
 layout: default
-title: "Week 7 – Reverse Engineering"
+title: "Week 7 – More Supply Chains"
 ---
 
 <div class="card-section">
-<h1>Week 7 – Reverse Engineering</h1>
+<h1>Week 7 – More Supply Chains</h1>
 </div>
 
 <div class="card-section">
 <h2>The Artifact</h2>
 <div style="text-align:center; margin: 0 auto 2rem; max-width: 720px;">
-  <img src="{{ '/assets/images/week07-artifact.png' | relative_url }}" alt="Week 7 artifact" style="width:100%;height:auto;box-shadow:0 12px 30px rgba(0,0,0,0.08);border-radius:16px;" />
+  <img src="{{ '/assets/images/Screenshot 2026-05-10 173101.png' | relative_url }}" alt="Week 7 artifact" style="width:100%;height:auto;box-shadow:0 12px 30px rgba(0,0,0,0.08);border-radius:16px;" />
 </div>
 
 <p>This image is a sketch of how the website thisisnotahuman.com works</p>
 </div>
 
 <div class="card-section">
-<h2>Q and A</h2>
+<h2>Network Analysis</h2>
 
-<p><strong>1. What Is Being Made?</strong><br>
-What is the output of this project?<br>
-The output of this project is an image of a fake person generated from a collection of real pictures.</p>
+<p><strong>What is the most central node? Why?</strong><br>
+The most central node on my map is TSMC (Taiwanese semiconductor manufacturing company) because my map focuses centrally on the supply of GPUs to the largest data center in the world by area, the Inner Mongolia Information Park in China. It is the key node that unites the flow of raw materials and the creation of the GPUs to the areas that they are actually utilized in data centers.</p>
 
-<p>What experience does it create for the user?<br>
-It is entertaining and interesting to see these pictures that look like real people while knowing that in actuality, they were created by a computer.</p>
+<p><strong>What clusters/groups emerged?</strong><br>
+A few notable clusters emerged. We can see a lot of the raw materials nodes cluster together and we can see the extraction of resources from countries like Brazil, China, and Russia. These are all part of the "global silicon supply" that all the wafer manufacturers claim to source from. There is also a cluster of manufacturing companies like SUMCO shin-etsu chem, and Siltronic, who are responsible for turning the raw silicon into the components of GPUs.</p>
 
-<p><strong>2. What Is the Project Made From? (Data)</strong><br>
-"Data" for this project would consist of a large set of photos of real faces that the project uses to learn.</p>
+<p><strong>What was surprising?</strong><br>
+Something that surprised me was just how dispersed the network is. I thought it would be the majority western hemisphere but I was surprised to learn that a lot of design and manufacturing aspects also happen in east Asia in areas like China and Japan.</p>
 
-<p>This project pulled around 70,000 images of faces from the website Flickr.</p>
+<p><strong>What is MISSING from this network?</strong><br>
+A lot of the nodes that are in the natural resources stage of production are not public. A lot of manufacturing companies just source from "the global supply chain." I wish they were a little more transparent about where they are sourcing from. Although it becomes clear that the sources must be unethical, otherwise, why hide it.</p>
 
-<p>There is no interface for the actual website. The user gets one face when loading the website and then the only way to get another is to refresh the page.</p>
+<p><strong>Attributions:</strong> Kumo</p>
+</div>
 
-<p><strong>3. Tools, Algorithms, or Systems</strong><br>
-What software, platforms, or models are involved?<br>
-They use the StyleGAN (Style Generative Adversarial Network)to generate the faces.<br>
-Is AI used? If yes, where in the process?<br>
-Yes, generative AI is used to create realistic but fake faces.<br>
-What steps feel automated vs. guided?<br>
-There are no steps other than refreshing the page and no instructions or any other semblance of a guide.</p>
+<div class="card-section">
+<h2>Artist Statement</h2>
 
-<p><strong>4. Human Labor & Decisions</strong><br>
-Who likely collected the data?<br>
-The data is collected by the website Flickr which is a popular place for photographers to post their images. The photos with faces are used to train TPDNE's GAN.<br>
-Who cleaned, categorized, or interpreted it?<br>
-TPDNE uses a tool called a GAN (Generative Adversarial Network) that first creates an image of a face then compares it against pictures of real faces until they are indistinguishable.<br>
-Where do you see human judgment shaping the outcome?<br>
-Humans are responsible for giving the initial database that is used to compare the generated faces for.</p>
+<p><strong>What does your network reveal about power?</strong><br>
+My network reveals that TSMC holds a large amount of power because they are the major connecting node between natural resources and data centers. Few alternatives exist that are of comparable size. It fails to show the weight behind each connection which I wish I was able to display.</p>
 
-<p><strong>5. Design as Argument</strong><br>
-How do visual or interface choices shape meaning?<br>
-Since there is no interface all the emphasis is put into the image that is generated by the website.<br>
-What does the project make easy to see?<br>
-The project is clearly trying to show off how realistic these synthetic faces can get.<br>
-What does it make hard to see?<br>
-This project is trying to make the line between humans and AI hard to see. It is very hard to look at the faces that are generated by this website and tell that it isn't a real person.</p>
+<p><strong>Who is visible? Who is invisible?</strong><br>
+Many parts of the process are intentionally kept out of sight. Miners, physical labor, and extraction sites are all very hard to obtain specific data for. Companies are taking steps to hide the environmental and humanitarian costs that these inhumane mines have.</p>
+
+<p><strong>How would a different network structure tell a different story?</strong><br>
+If the network were changed to include labor as the center instead of money, mines with thousands of workers would become the center of the web. This would be interesting in my opinion as this is where the bulk of human effort is concentrated. It is also most likely currently in a frightening state, where companies would like to keep these mines out of the public eye.</p>
 </div>
 
 <div class="card-section">
