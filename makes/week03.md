@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "Week 3 – Selfie & Identity"
+title: "Week 3 – AI Comic Strip"
 ---
 
-# Week 3 – Selfie & Identity
+# Week 3 – AI Comic Strip
 
 ## The Artifact
 Describe or embed your artifact here.

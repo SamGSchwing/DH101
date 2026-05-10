@@ -1,10 +1,10 @@
 ---
 layout: default
-title: "Week 4 – Reverse Engineering"
+title: "Week 4 – AI GIF Remix"
 ---
 
 <div class="card-section">
-<h1>Week 4 – Reverse Engineering</h1>
+<h1>Week 4 – AI GIF Remix</h1>
 </div>
 
 <div class="card-section">
