@@ -28,8 +28,6 @@ title: "Week 8 – AI Generated Image Variations"
 <p>These images were created through DALLE-3 with the use and variation of the prompt: Create a highly realistic image of a red sunset reflected in the glass of a high rise skyscraper, with the city spread out behind and below</p>
 </div>
 
-<div class="card-section">
-<h2>Q and A</h2>
 
 
 
