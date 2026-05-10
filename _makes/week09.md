@@ -1,10 +1,10 @@
 ---
 layout: default
-title: "Week 9 – Reverse Engineering"
+title: "Week 9 – AI Themed Game"
 ---
 
 <div class="card-section">
-<h1>Week 9 – Reverse Engineering</h1>
+<h1>Week 9 – AI Themed Game</h1>
 </div>
 
 <div class="card-section">
