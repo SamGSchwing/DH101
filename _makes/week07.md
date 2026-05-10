@@ -13,7 +13,7 @@ title: "Week 7 – More Supply Chains"
   <img src="{{ '/assets/images/Screenshot 2026-05-10 173101.png' | relative_url }}" alt="Week 7 artifact" style="width:100%;height:auto;box-shadow:0 12px 30px rgba(0,0,0,0.08);border-radius:16px;" />
 </div>
 
-<p>This image is a sketch of how the website thisisnotahuman.com works</p>
+<p>This image shows the web that I created to display the connections between semiconductor manufacturers and buyer.s </p>
 </div>
 
 <div class="card-section">
