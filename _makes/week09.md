@@ -10,7 +10,7 @@ title: "Week 9 – Reverse Engineering"
 <div class="card-section">
 <h2>The Artifact</h2>
 <div style="text-align:center; margin: 0 auto 2rem; max-width: 720px;">
-  <img src="{{ '/assets/images/week09-artifact.png' | relative_url }}" alt="Week 9 artifact" style="width:100%;height:auto;box-shadow:0 12px 30px rgba(0,0,0,0.08);border-radius:16px;" />
+  <iframe src="{{ '/assets/ai interview (1).html' | relative_url }}" style="width:100%;height:800px;border:none;border-radius:16px;box-shadow:0 12px 30px rgba(0,0,0,0.08);" title="Week 9 Game"></iframe>
 </div>
 
 <p>This image is a sketch of how the website thisisnotahuman.com works</p>
