@@ -14,6 +14,8 @@ title: "Week 2 – Reverse Engineering"
   <img src="{{ '/assets/images/Screenshot 2026-05-10 161848.png' | relative_url }}" alt="Week 2 artifact - Image 2" style="width:100%;height:auto;box-shadow:0 12px 30px rgba(0,0,0,0.08);border-radius:16px;margin-bottom:1.5rem;" />
   <img src="{{ '/assets/images/Screenshot 2026-05-10 161653.png' | relative_url }}" alt="Week 2 artifact - Image 3" style="width:100%;height:auto;box-shadow:0 12px 30px rgba(0,0,0,0.08);border-radius:16px;" />
 </div>
+<p><strong>Images 1 and 2:</strong> AI generated remix.<br>
+<strong>Image 3:</strong> The original</p>
 </div>
 
 <div class="card-section">
