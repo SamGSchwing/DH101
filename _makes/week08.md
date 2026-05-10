@@ -25,7 +25,7 @@ title: "Week 8 – AI Generated Image Variations"
   <img src="{{ '/assets/images/Screenshot 2026-05-10 16184.png' | relative_url }}" alt="Week 8 artifact" style="width:100%;height:auto;box-shadow:0 12px 30px rgba(0,0,0,0.08);border-radius:16px;" />
 </div>
 
-<p>This image is a sketch of how the website thisisnotahuman.com works</p>
+<p>These images were created through DALLE-3 with the use and variation of the prompt: Create a highly realistic image of a red sunset reflected in the glass of a high rise skyscraper, with the city spread out behind and below</p>
 </div>
 
 <div class="card-section">
@@ -49,6 +49,7 @@ My thought process with my original prompt was to make something that could be r
 
 I also like this one that is done in the style of an oil painting. Even though there is no skyscraper, the reflection aspect is maintained in the water. 
 
+</div>
 
 1. At what point did YOU make a creative decision? List specific moments.
 I made creative choices,
