@@ -4,7 +4,7 @@ title: "Week 2 – Reverse Engineering"
 ---
 
 <div class="card-section">
-<h1>Week 2 – Reverse Engineering</h1>
+<h1>Week 2 – AI Selfie</h1>
 </div>
 
 <div class="card-section">
@@ -28,14 +28,4 @@ Authenticity loses some of its meaning when our work is being co-created by arti
 I can see my likeness in the image that the AI created, although it tries to smooth out some features. Flaws that add realism in the original photo are lost when the AI touches it up, because that is more similar to the photos that the model was trained on. Through a series of infinite small changes, something doesn’t look right. I can tell that the image is of me, but it doesn’t feel quite right. 
 
 </p>
-</div>
-
-<div class="card-section">
-<h2>Attribution & AI Use</h2>
-<ul>
-<li><strong>Tools used:</strong></li>
-<li><strong>AI prompts (summary):</strong></li>
-<li><strong>What AI generated:</strong></li>
-<li><strong>What you changed or decided:</strong></li>
-</ul>
 </div>

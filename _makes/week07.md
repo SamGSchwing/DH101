@@ -66,13 +66,3 @@ What changes when machines participate in making?
 When machines participate in making, the human is no longer the producer of the individual product. Instead, the human is responsible for making sure that the machine learns well enough to create on its own. Once the machine has learned and is sufficiently trained, it is able to produce an infinite amount of spinoff images based on the input. The process is infinitely faster than what a human artist could do but it raises questions about authenticity. If no human was directly involved in the creation of this image, does it still hold value to our society as a "make
 </p>
 </div>
-
-<div class="card-section">
-<h2>Attribution & AI Use</h2>
-<ul>
-<li><strong>Tools used:</strong></li>
-<li><strong>AI prompts (summary):</strong></li>
-<li><strong>What AI generated:</strong></li>
-<li><strong>What you changed or decided:</strong></li>
-</ul>
-</div>
