@@ -20,8 +20,7 @@ title: "Week 10 – Reverse Engineering"
 <p>This image is a sketch of how the website thisisnotahuman.com works</p>
 </div>
 
-<div class="card-section">
-<h2>Q and A</h2>
+
 
 
 <div class="card-section">
