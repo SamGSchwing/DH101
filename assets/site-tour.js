@@ -80,29 +80,11 @@ document.addEventListener('DOMContentLoaded', () => {
   };
 
   const positionTooltip = (target) => {
-    const rect = target.getBoundingClientRect();
     const tooltipRect = tooltip.getBoundingClientRect();
     const padding = 16;
 
-    let top = rect.bottom + padding;
-    let left = rect.left;
-    let maxLeft = window.innerWidth - tooltipRect.width - padding;
-
-    if (top + tooltipRect.height > window.innerHeight) {
-      top = rect.top - tooltipRect.height - padding;
-    }
-
-    if (left > maxLeft) {
-      left = maxLeft;
-    }
-
-    if (left < padding) {
-      left = padding;
-    }
-
-    if (top < padding) {
-      top = padding;
-    }
+    const left = Math.max(padding, (window.innerWidth - tooltipRect.width) / 2);
+    const top = padding;
 
     tooltip.style.top = `${top + window.scrollY}px`;
     tooltip.style.left = `${left + window.scrollX}px`;
