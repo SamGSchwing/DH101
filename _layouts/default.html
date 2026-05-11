@@ -11,6 +11,16 @@
             background: linear-gradient(to top left, #faf5ff 0%, #e5d9ff 100%);
         }
         
+        body.homepage {
+            background: #000;
+            background-image:
+                linear-gradient(to bottom, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 0) 55%),
+                url("{{ '/assets/images/week01-artifact.png' | relative_url }}");
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+        }
+        
         body {
             max-width: 1200px;
             margin: 2rem auto;
@@ -71,7 +81,7 @@
         }
     </style>
 </head>
-<body>
+<body class="{% if page.url == '/' %}homepage{% endif %}">
     <nav class="home-nav">
         <a href="{{ '/' | relative_url }}" class="home-button">Sam Schwing</a>
     </nav>
