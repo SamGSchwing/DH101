@@ -12,18 +12,24 @@
         }
         
         body.homepage {
-            background: #000;
+            background: url("{{ '/assets/images/b7ecfd14-86a8-4029-97a6-4a6bc80f0840.png' | relative_url }}") center center / cover no-repeat fixed;
+            min-height: 100vh;
             position: relative;
             overflow-x: hidden;
+        }
+
+        body.homepage .card-section {
+            background: rgba(255, 255, 255, 0.90);
+            border-color: rgba(229, 231, 235, 0.85);
         }
 
         body.homepage::before {
             content: "";
             position: fixed;
             inset: 0;
-            background: url("{{ '/assets/images/week01-artifact.png' | relative_url }}") center center / cover no-repeat;
+            background: url("{{ '/assets/images/b7ecfd14-86a8-4029-97a6-4a6bc80f0840.png' | relative_url }}") center center / cover no-repeat fixed;
             opacity: 0;
-            animation: bgFadeIn 1.5s ease forwards;
+            animation: bgFadeIn 5s ease forwards;
             z-index: -1;
         }
 
