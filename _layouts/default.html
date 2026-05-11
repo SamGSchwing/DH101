@@ -12,14 +12,21 @@
         }
         
         body.homepage {
-            background: url("{{ '/assets/images/b7ecfd14-86a8-4029-97a6-4a6bc80f0840.png' | relative_url }}") center center / cover no-repeat fixed;
+            background-color: #000;
             min-height: 100vh;
             position: relative;
             overflow-x: hidden;
         }
 
+        body.homepage .home-nav,
+        body.homepage .header-section,
         body.homepage .card-section {
-            background: rgba(255, 255, 255, 0.90);
+            position: relative;
+            z-index: 1;
+        }
+
+        body.homepage .card-section {
+            background: rgba(255, 255, 255, 0.92);
             border-color: rgba(229, 231, 235, 0.85);
         }
 
@@ -29,8 +36,9 @@
             inset: 0;
             background: url("{{ '/assets/images/b7ecfd14-86a8-4029-97a6-4a6bc80f0840.png' | relative_url }}") center center / cover no-repeat fixed;
             opacity: 0;
-            animation: bgFadeIn 5s ease forwards;
-            z-index: -1;
+            animation: bgFadeIn 7s ease forwards;
+            z-index: 0;
+            pointer-events: none;
         }
 
         @keyframes bgFadeIn {
