@@ -2,6 +2,7 @@
 <div class="header-section">
 	<h1>Welcome — DH101</h1>
 	<p class="intro-text">Hello, DH — this site will document my critical making this semester.</p>
+	<button id="site-tour-start" class="tour-button">Site Tour</button>
 </div>
 
 <div class="card-section">
