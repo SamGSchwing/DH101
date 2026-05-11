@@ -99,10 +99,23 @@ img{background:transparent}
   border: 1px solid rgba(29, 78, 216, 0.2);
 }
 
-.home-button:hover {
+..home-button:hover {
   background: rgba(29, 78, 216, 0.2);
   border-color: rgba(29, 78, 216, 0.4);
   transform: translateX(-2px);
+}
+
+body.homepage .home-button {
+  background: rgba(255, 255, 255, 0.96);
+  color: #111827;
+  border-color: rgba(0, 0, 0, 0.08);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+}
+
+body.homepage .home-button:hover {
+  background: rgba(255, 255, 255, 1);
+  border-color: rgba(0, 0, 0, 0.12);
+  transform: translateX(0);
 }
 
 /* Style links in card sections as cards */
