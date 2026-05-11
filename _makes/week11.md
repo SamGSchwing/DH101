@@ -1,61 +1,59 @@
 ---
 layout: default
-title: "Week 11 – Reverse Engineering"
+title: "Week 11 – Sustainability"
 ---
 
 <div class="card-section">
-<h1>Week 11 – Reverse Engineering</h1>
+<h1>Week 11 – Sustainability</h1>
 </div>
 
 <div class="card-section">
 <h2>The Artifact</h2>
 <div style="text-align:center; margin: 0 auto 2rem; max-width: 720px;">
-  <img src="{{ '/assets/images/week11-artifact.png' | relative_url }}" alt="Week 11 artifact" style="width:100%;height:auto;box-shadow:0 12px 30px rgba(0,0,0,0.08);border-radius:16px;" />
+  <img src="{{ '/assets/images/Screenshot 2026-05-10 185004.png' | relative_url }}" alt="Week 11 artifact" style="width:100%;height:auto;box-shadow:0 12px 30px rgba(0,0,0,0.08);border-radius:16px;" />
 </div>
 
-<p>This image is a sketch of how the website thisisnotahuman.com works</p>
+<p>This is an infographic I made meant to convey the enviromental costs of AI through visceral comparisons. </p>
+</div>
+
+
+<div class="card-section">
+<h2>My Research</h2>
+<p>I found a few statistics that I thought really added to the visceral effect of the poster. I looked at sites and found the amount of trees to offset the carbon now being produced by AI, the equivalent amount of miles driven to match the same amount produced by AI, and the percentage increase that AI is responsible for in the entire world.</p>
 </div>
 
 <div class="card-section">
-<h2>Q and A</h2>
+<h2>Data Sources</h2>
+<p><a href="https://undark.org/2024/02/20/ai-environmental-footprint/">Undark: AI's Environmental Footprint</a></p>
+<p><a href="https://www.piie.com/blogs/realtime-economics/2024/ais-carbon-footprint-appears-likely-be-alarming">PIIE: AI's Carbon Footprint</a></p>
+<p><a href="https://www.climateimpact.com/news-insights/insights/carbon-footprint-of-ai/">Climate Impact: Carbon Footprint of AI</a></p>
+<p><a href="https://news.climate.columbia.edu/2023/06/09/ais-growing-carbon-footprint/">Columbia Climate News: AI's Growing Carbon Footprint</a></p>
+</div>
 
-<p><strong>1. What Is Being Made?</strong><br>
-What is the output of this project?<br>
-The output of this project is an image of a fake person generated from a collection of real pictures.</p>
+<div class="card-section">
+<h2>Personal Reflection</h2>
+<p><strong>My AI use habits</strong><br>
+- Estimated impact<br>
+- What I'm willing to change<br>
+- What I can't/won't change (and why)</p>
 
-<p>What experience does it create for the user?<br>
-It is entertaining and interesting to see these pictures that look like real people while knowing that in actuality, they were created by a computer.</p>
+<p>I could completely cut AI out of my life and be perfectly fine. The most useful thing I have accomplished with AI is troubleshooting tech problems without having to call anyone, which is nice, but there are many viable alternatives (like calling tech support). I am willing to completely cut AI out of my life if it would have a significant positive impact on the world. However, I will not stop using it because my usage doesn't generate income for the companies providing the service (i only use free things like chatGPT) and therefore quitting will have no negative impact on the mother company and nothing will change. Short version: me stopping will fix nothing serious. I think that this is a viable argument to make for AI even though it the same argument fails in other aspects (eating meat and voting). This is actually something that I have thought about quite a bit, because we discuss things like this in my Philosophy class and I really enjoy it. I would like it if we could have more ethical type questions like this in the future.</p>
 
-<p><strong>2. What Is the Project Made From? (Data)</strong><br>
-"Data" for this project would consist of a large set of photos of real faces that the project uses to learn.</p>
+<p>I tried to only use sources that seemed trustworthy and didn't have an agenda. So I avoided any stats from the AI companies themselves because they have a vested interest in appearing as harmless as possible.</p>
 
-<p>This project pulled around 70,000 images of faces from the website Flickr.</p>
+<p>The hardest data to find were the visceral stats that I used because they weren't pulled straight from any of the research papers, I had to whip out the trusty Ti-84 and do some math. It wasn't very hard math of course, but I still had to do more work for that than any of the other stats. Stuff like this is generally much easier to find than things we've done in the past because there is both a lot of documentation as well as independent sources reporting their own numbers outside of any organization that has a direct effect on the industry and would thus have something to hide if they were doing anything unethical.</p>
+</div>
 
-<p>There is no interface for the actual website. The user gets one face when loading the website and then the only way to get another is to refresh the page.</p>
+<div class="card-section">
+<h2>Artist Statement</h2>
+<p><strong>What environmental cost most concerns you?</strong><br>
+The environmental cost that most concerns me is honestly the water consumption. I think we should seriously consider other alternatives to cooling rather than fresh water.</p>
 
-<p><strong>3. Tools, Algorithms, or Systems</strong><br>
-What software, platforms, or models are involved?<br>
-They use the StyleGAN (Style Generative Adversarial Network)to generate the faces.<br>
-Is AI used? If yes, where in the process?<br>
-Yes, generative AI is used to create realistic but fake faces.<br>
-What steps feel automated vs. guided?<br>
-There are no steps other than refreshing the page and no instructions or any other semblance of a guide.</p>
+<p><strong>Can AI be sustainable? What would it take?</strong><br>
+I think that AI could be more sustainable. We would need to switch to a more sustainable form of power for the data centers (clean solar, wind, geothermal) as well as stop the consumption of mass amounts of fresh water.</p>
 
-<p><strong>4. Human Labor & Decisions</strong><br>
-Who likely collected the data?<br>
-The data is collected by the website Flickr which is a popular place for photographers to post their images. The photos with faces are used to train TPDNE's GAN.<br>
-Who cleaned, categorized, or interpreted it?<br>
-TPDNE uses a tool called a GAN (Generative Adversarial Network) that first creates an image of a face then compares it against pictures of real faces until they are indistinguishable.<br>
-Where do you see human judgment shaping the outcome?<br>
-Humans are responsible for giving the initial database that is used to compare the generated faces for.</p>
-
-<p><strong>5. Design as Argument</strong><br>
-How do visual or interface choices shape meaning?<br>
-Since there is no interface all the emphasis is put into the image that is generated by the website.<br>
-What does the project make easy to see?<br>
-The project is clearly trying to show off how realistic these synthetic faces can get.<br>
-What does it make hard to see?<br>
-This project is trying to make the line between humans and AI hard to see. It is very hard to look at the faces that are generated by this website and tell that it isn't a real person.</p>
+<p><strong>What is your responsibility?</strong><br>
+My responsibility as the consumer is to not increase the amount of demand for the product so hopefully the supply will decrease. If we stop using so much AI then less natural resources will be consumed, which would be good.</p>
 </div>
 
 <div class="card-section">

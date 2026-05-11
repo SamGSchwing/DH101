@@ -17,7 +17,7 @@ title: "Week 10 – Content Moderation Task"
   <img src="{{ '/assets/images/Screenshot 2026-02-27 223647.png' | relative_url }}" alt="Week 10 artifact 223647" style="width:100%;height:auto;box-shadow:0 12px 30px rgba(0,0,0,0.08);border-radius:16px;" />
 </div>
 
-<p>This image is a sketch of how the website thisisnotahuman.com works</p>
+<p>This is a proposed infographic to spread awareness about content moderation tasks. </p>
 </div>
 
 
