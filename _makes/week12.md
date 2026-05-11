@@ -1,68 +1,56 @@
 ---
 layout: default
-title: "Week 12 – Reverse Engineering"
+title: "Week 12 – AI Future"
 ---
 
 <div class="card-section">
-<h1>Week 12 – Reverse Engineering</h1>
+<h1>Week 12 – AI Future</h1>
 </div>
 
 <div class="card-section">
 <h2>The Artifact</h2>
 <div style="text-align:center; margin: 0 auto 2rem; max-width: 720px;">
-  <img src="{{ '/assets/images/week12-artifact.png' | relative_url }}" alt="Week 12 artifact" style="width:100%;height:auto;box-shadow:0 12px 30px rgba(0,0,0,0.08);border-radius:16px;" />
+  <img src="{{ '/assets/images/Screenshot 2026-05-11 010324.png' | relative_url }}" alt="Week 12 artifact 010324" style="width:100%;height:auto;box-shadow:0 12px 30px rgba(0,0,0,0.08);border-radius:16px;" />
 </div>
 
-<p>This image is a sketch of how the website thisisnotahuman.com works</p>
+<div style="text-align:center; margin: 0 auto 2rem; max-width: 720px;">
+  <img src="{{ '/assets/images/Screenshot 2026-05-11 010404.png' | relative_url }}" alt="Week 12 artifact 010404" style="width:100%;height:auto;box-shadow:0 12px 30px rgba(0,0,0,0.08);border-radius:16px;" />
+</div>
+
+<div style="text-align:center; margin: 0 auto 2rem; max-width: 720px;">
+  <img src="{{ '/assets/images/Screenshot 2026-05-11 010434.png' | relative_url }}" alt="Week 12 artifact 010434" style="width:100%;height:auto;box-shadow:0 12px 30px rgba(0,0,0,0.08);border-radius:16px;" />
+</div>
+
+<div style="text-align:center; margin: 0 auto 2rem; max-width: 720px;">
+  <img src="{{ '/assets/images/Screenshot 2026-05-11 010833.png' | relative_url }}" alt="Week 12 artifact 010833" style="width:100%;height:auto;box-shadow:0 12px 30px rgba(0,0,0,0.08);border-radius:16px;" />
+</div>
+
+<p>Here is a compilation of newspaper ads that I think might appear in the future. The last image is a faux newspaper front page that I made to contain the ads. </p>
+</div>
+
+
+<div class="card-section">
+<h2>Context Statement</h2>
+<p><strong>What future does this depict? (Year, key events)</strong><br>
+This future presents the direction I see AI taking. It is an artifact from the year 2051. Several key aspects being depicted are the launching of an AI sports league, AI president running for its second term, and an advertisement for some classes in AI certification.</p>
+
+<p><strong>What present trends led here?</strong><br>
+Recently, we have been seeing the popularization of AI created media as a source of entertainment. The natural development of this is taking the entertainment to an official level with some sort of AI sports league. I also think that the AI president is a bit of an exaggeration, but it is a fun addition to the ad page.</p>
+
+<p><strong>What assumptions about human-AI relations does it reveal?</strong><br>
+It reveals that I believe there will be no catastrophic AI event in the next 30 years. I think that AI development will hit a wall soon and the growth and expansion of AI tech companies will greatly slow down.</p>
 </div>
 
 <div class="card-section">
-<h2>Q and A</h2>
-
-<p><strong>1. What Is Being Made?</strong><br>
-What is the output of this project?<br>
-The output of this project is an image of a fake person generated from a collection of real pictures.</p>
-
-<p>What experience does it create for the user?<br>
-It is entertaining and interesting to see these pictures that look like real people while knowing that in actuality, they were created by a computer.</p>
-
-<p><strong>2. What Is the Project Made From? (Data)</strong><br>
-"Data" for this project would consist of a large set of photos of real faces that the project uses to learn.</p>
-
-<p>This project pulled around 70,000 images of faces from the website Flickr.</p>
-
-<p>There is no interface for the actual website. The user gets one face when loading the website and then the only way to get another is to refresh the page.</p>
-
-<p><strong>3. Tools, Algorithms, or Systems</strong><br>
-What software, platforms, or models are involved?<br>
-They use the StyleGAN (Style Generative Adversarial Network)to generate the faces.<br>
-Is AI used? If yes, where in the process?<br>
-Yes, generative AI is used to create realistic but fake faces.<br>
-What steps feel automated vs. guided?<br>
-There are no steps other than refreshing the page and no instructions or any other semblance of a guide.</p>
-
-<p><strong>4. Human Labor & Decisions</strong><br>
-Who likely collected the data?<br>
-The data is collected by the website Flickr which is a popular place for photographers to post their images. The photos with faces are used to train TPDNE's GAN.<br>
-Who cleaned, categorized, or interpreted it?<br>
-TPDNE uses a tool called a GAN (Generative Adversarial Network) that first creates an image of a face then compares it against pictures of real faces until they are indistinguishable.<br>
-Where do you see human judgment shaping the outcome?<br>
-Humans are responsible for giving the initial database that is used to compare the generated faces for.</p>
-
-<p><strong>5. Design as Argument</strong><br>
-How do visual or interface choices shape meaning?<br>
-Since there is no interface all the emphasis is put into the image that is generated by the website.<br>
-What does the project make easy to see?<br>
-The project is clearly trying to show off how realistic these synthetic faces can get.<br>
-What does it make hard to see?<br>
-This project is trying to make the line between humans and AI hard to see. It is very hard to look at the faces that are generated by this website and tell that it isn't a real person.</p>
+<h2>Critical Reflection</h2>
+<p><strong>Is this future desirable? Avoidable? Inevitable?</strong><br>
+I think this future is desirable compared to other possibilities. It is honestly not that bad and the most extreme thing is definitely the AI president ad. I think this has a reasonable chance of happening eventually but maybe not by 2051. I am not sure if it is avoidable. I don’t think anyone would particularly want to avoid it but even so I think it could definitely be prevented. I think with a few simple regulatory laws passing this could be entirely prevented.</p>
 </div>
 
 <div class="card-section">
-<h2>Reflection</h2>
-<p>For my project "making" counts as a neural network taking a large amount of data (publicly available pictures of faces) and then learning and combining them to make fake people that don't really exist. Humans only affect the training of the machine, they have no oversight or say over the final output on the website. 
-What changes when machines participate in making?
+<h2>Attribution</h2>
+<p><strong>Any AI tools used in creation</strong><br>
+I used ChatGPT to create the images, I presented a current day image and told chatgpt what to do with it.</p>
 
-When machines participate in making, the human is no longer the producer of the individual product. Instead, the human is responsible for making sure that the machine learns well enough to create on its own. Once the machine has learned and is sufficiently trained, it is able to produce an infinite amount of spinoff images based on the input. The process is infinitely faster than what a human artist could do but it raises questions about authenticity. If no human was directly involved in the creation of this image, does it still hold value to our society as a "make
-</p>
+
 </div>
