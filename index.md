@@ -31,8 +31,6 @@
 		<li><a href="pages/about">👤 About</a></li>
 		<li><a href="pages/accessibility">♿ Accessibility</a></li>
 		<li><a href="pages/how-i-use-ai">🤖 How I Use AI</a></li>
-		<li><a href="pages/markdown-guide">📝 Markdown Guide</a></li>
 		<li><a href="pages/sustainability">🌱 Sustainability</a></li>
-		<li><a href="reflections/index">💭 Reflections</a></li>
 	</ul>
 </div>
